@@ -23,32 +23,8 @@
           "!type": "External",
           "file": [
             "forms",
-            "CreateAccount",
-            "CreateAccount.json"
-          ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
-            "FoundPetForm",
-            "FoundPetForm.json"
-          ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
-            "Homepage",
-            "Homepage.json"
-          ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
-            "LostPetForm",
-            "LostPetForm.json"
+            "Form1",
+            "Form1.json"
           ]
         }
       ],
@@ -71,7 +47,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "CreateAccount",
+      "firstform": "Form1",
       "fontFamily": "system",
       "homescreenTitle": "",
       "icon": "nsb/images/192.png",
