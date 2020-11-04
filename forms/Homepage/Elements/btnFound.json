@@ -28,8 +28,8 @@
   "hidden": "",
   "icon": "",
   "iconTitle": "",
-  "id": "Button1",
-  "left": 137,
+  "id": "btnFound",
+  "left": 65,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 99,
-  "value": "Button",
-  "width": "auto"
+  "top": 358,
+  "value": "Report Found Animal",
+  "width": 183
 }
